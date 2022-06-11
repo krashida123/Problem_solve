@@ -10,6 +10,9 @@ public class Class_today {
 		String a = "Fahmi";
 		String b = "Mina";
 		int c= 2;
+		Systemout.println()
+		
+		
 	}
 
 }
